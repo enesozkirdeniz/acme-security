@@ -24,11 +24,8 @@ assignees: ''
 
 **Option A: Attached Files**
 - Report PDF: [Attach here]
-- Video link: 
+- Video link: https://www.youtube.com/watch?v=mT99EwQAVR8
 
-**Option B: External Links**
-- Report: [Google Drive / Dropbox link]
-- Video: [YouTube / Vimeo / Loom link]
 
 ---
 
